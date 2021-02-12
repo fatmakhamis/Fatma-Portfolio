@@ -18,12 +18,13 @@ ul {
   line-height: 40px;
 }
 .sidebar {
+    height: 50%;
     border: 5px outset red;
     background-color: lightblue;    
     text-align: center;
-    width: 68%;
-    float: right;
-  }
+    width: 60%;
+    float: right;}
+    
   .yellow-theme{
       background-color: yellow;
     }
