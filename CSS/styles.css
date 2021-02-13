@@ -1,21 +1,25 @@
 div.gallery {
-  margin: 10px
-  border: 1px solid #cccccc:
-  background-color: lightblue;    
+  margin: 30px
+  background-color: blue;
   width: 30%;
   float: left;
+  height:100%;
 }
 div.gallery img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 div.desc {
-  padding: 15px;
+  padding: 20px;
   text-align: center;
-  font-family: Georgia;
- }
+  font-family: fantasy;
+  font-weight : bold;
+  font-style: italic;
+  
+}
 h1 {
   color: blue;
+  font-style: italic;
   text-align: center;
 }
 h2 {
@@ -36,6 +40,7 @@ h4 {
 h5 {
   color: blue;
   text-align: left;
+  font-size: 15px;
 }
 p {
   font-family: sans-serif;
@@ -60,9 +65,8 @@ p {
 .main {
   background-color: lightblue;    
   text-align: left;
-  width :100%;
+  width : 30%;
   height: 100%;
-
 }
 .navbar{
   background-color: lightblue;    
