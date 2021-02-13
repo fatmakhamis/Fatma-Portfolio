@@ -53,6 +53,7 @@ p {
   text-align: justify;
   width: 69%;
   float: right;
+  margin: 0.5px;
 }
 .yellow-theme{
   background-color: yellow;
