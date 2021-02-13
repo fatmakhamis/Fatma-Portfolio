@@ -1,3 +1,10 @@
+div.gallery {
+  margin: 10px
+  border: 1px solid #cccccc:
+  background-color: lightblue;    
+  width: 300px;
+  float: left;
+}
 h1 {
   color: blue;
   text-align: center;
@@ -27,21 +34,37 @@ p {
   text-align: center;
 }
 .sidebar {
-    height: 100%;
-    border: 5px outset red;
-    background-color: lightblue;    
-    text-align: justify;
-    width: 65%;
-    float: right;
+  height: 100%;
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: justify;
+  width: 69%;
+  float: right;
 }
 .yellow-theme{
-      background-color: yellow;
+  background-color: yellow;
+  display: inline;
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+  border: 1px solid blue;
 }
 .main {
-      background-color: lightblue;    
-      text-align: left;
-}
-.main .contacts {
   background-color: lightblue;    
-  display: inline-block
+  text-align: left;
+}
+.navbar{
+  background-color: lightblue;    
+  position:fixed;
+  width :100%;
+}
+.navbar .max-width{
+  background-color: lightblue;    
+  display: inline-block;
+  margin : auto;
+}
+.navbar .menu{
+  display: flex;
+  align-items:center;
+  justify-content:space-between;
 }
