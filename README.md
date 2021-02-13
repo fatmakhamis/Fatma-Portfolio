@@ -2,6 +2,8 @@
 #### By Fatma Khamis, 13/02/2021
 ## Description
 This project was set up to create a Personal Portfolio as part of week's one Individual project
+##Demo
+Here is a working live demo:
 ## Setup/Installation Requirements
 * Clone the repository
 * Change directory to the project directory
