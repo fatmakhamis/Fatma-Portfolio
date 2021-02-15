@@ -46,7 +46,7 @@ p {
   text-align: center;
 }
 .sidebar {
-  height: 100%;
+  height: 90%;
   border: 5px outset red;
   background-color: lightblue;    
   text-align: justify;
